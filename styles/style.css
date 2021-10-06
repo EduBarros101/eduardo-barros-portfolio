@@ -1,3 +1,7 @@
-body {
-    background-color: cyan;
+:root {
+    /* Gotta check if I'll need  to have the scroll-behavior under "*" or if it'll work fine here on :root. */
+    scroll-behavior: smooth;
+
+    /* color just for initial orientation */
+    background-color: gray;
 }
