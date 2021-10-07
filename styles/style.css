@@ -5,8 +5,3 @@
     /* color just for initial orientation */
     background-color: gray;
 }
-
-ol,
-ul {
-    list-style: none;
-}
