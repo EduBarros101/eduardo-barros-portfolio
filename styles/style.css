@@ -3,7 +3,9 @@
 :root {
     /* Gotta check if I'll need  to have the scroll-behavior under "*" or if it'll work fine here on :root. */
     scroll-behavior: smooth;
+}
 
-    /* Color just for initial orientation. Delete when not needed. */
-    background-color: gray;
+header {
+    display: flex;
+    justify-content: flex-end;
 }
