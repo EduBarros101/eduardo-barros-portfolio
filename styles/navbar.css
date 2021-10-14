@@ -1,3 +1,18 @@
+header {
+    display: flex;
+    position: sticky;
+    top: 0.5rem;
+
+    justify-content: flex-end;
+
+    /* NOTE: I'm jsut trying new things on the navbar, these round corners will probably not make it to the end project. */
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 20px gray;
+
+    background: lightcyan;
+}
+
 #navbar {
     width: 25rem;
 }
