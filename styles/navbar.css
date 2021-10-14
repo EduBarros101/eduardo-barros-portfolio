@@ -1,5 +1,5 @@
 #navbar {
-    width: 30rem;
+    width: 25rem;
 }
 
 #navbar ul {
@@ -8,11 +8,11 @@
     justify-content: space-evenly;
 
     height: 3rem;
-
-    /* background-color: yellow; */
 }
 
 #navbar a {
     text-decoration: none;
     color: black;
 }
+
+/* TODO: set the navbar to be blur and to be able to see through it. */

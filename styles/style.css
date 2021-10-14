@@ -1,11 +1,19 @@
 /* File for general styling. Still getting used to it. Trying to get things more organized with separated files. */
 
-:root {
-    /* Gotta check if I'll need  to have the scroll-behavior under "*" or if it'll work fine here on :root. */
+html {
     scroll-behavior: smooth;
+    scroll-padding-top: 3rem;
 }
 
 header {
     display: flex;
+    position: sticky;
+    top: 0.5rem;
+
     justify-content: flex-end;
+
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+
+    background: rgb(145, 202, 30);
 }
