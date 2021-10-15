@@ -10,7 +10,7 @@ header {
     border-radius: 0.5rem;
     box-shadow: 0 0 20px gray;
 
-    background: lightcyan;
+    background: var(--strong-color);
 }
 
 #navbar {
@@ -27,7 +27,5 @@ header {
 
 #navbar a {
     text-decoration: none;
-    color: black;
+    color: var(--text-color1);
 }
-
-/* TODO: set the navbar to be blur and to be able to see through it. */
