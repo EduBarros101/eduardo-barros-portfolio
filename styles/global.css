@@ -1,10 +1,10 @@
 /* File for general styling. Still getting used to it. Trying to get things more organized with separated files. */
 
 :root {
-    --strong-color: #004369;
-    --medium-color: #01949a;
-    --light-color: #e5ddc8;
-    --alert-color: #db1f48;
+    --strong-color: #175873;
+    --medium-color: #2b7c85;
+    --light-color: #87aca3;
+    --alert-color: #0c1446;
 
     --text-color1: lightcyan;
 }
