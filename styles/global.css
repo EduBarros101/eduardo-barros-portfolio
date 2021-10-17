@@ -11,7 +11,7 @@
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 3rem;
+    scroll-padding-top: 4rem;
 
     /* Just trying new fonts. Might find a better one later. */
     font-family: "Roboto", sans-serif;
