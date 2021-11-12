@@ -1,0 +1,46 @@
+#projects {
+    min-height: 100vh;
+
+    /* TODO: Gotta find better colors. */
+    background: var(--medium-color);
+}
+#projects-header {
+    text-align: center;
+    padding: 5rem;
+    color: var(--text-color1);
+}
+
+#cards-wrapper {
+    display: grid;
+    grid-template-columns: minmax(300px, 1fr);
+    gap: 2rem;
+    padding: 2rem;
+}
+
+#project-card {
+    text-align: center;
+
+    overflow: hidden;
+
+    min-width: 300px;
+    border-radius: 0.4rem;
+    box-shadow: 0 0 10px black;
+
+    background: lightcyan;
+}
+
+#project-card > img {
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    #cards-wrapper {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    #cards-wrapper {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
