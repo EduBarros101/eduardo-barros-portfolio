@@ -1,7 +1,8 @@
 #projects {
     min-height: 100vh;
 
-    /* TODO: Gotta find better colors. */
+    padding-bottom: 1.5rem;
+
     background: var(--medium-color);
 }
 #projects-header {
@@ -53,6 +54,10 @@
 
 .project-tile > img {
     width: 100%;
+}
+
+.project-tile > h3 {
+    padding: 0 0 0.5rem;
 }
 
 @media screen and (min-width: 768px) {
