@@ -10,7 +10,7 @@
     color: var(--text-color1);
 }
 
-#cards-wrapper {
+#tile-wrapper {
     display: grid;
     grid-template-columns: minmax(300px, 1fr);
     gap: 2rem;
@@ -18,6 +18,25 @@
 
     max-width: 1000px;
     margin: auto;
+}
+
+#projects > button {
+    display: block;
+
+    margin: auto;
+    padding: 0.5rem;
+
+    border: none;
+    border-radius: 0.3rem;
+
+    background-color: var(--alert-color);
+}
+
+#projects > button > a {
+    font-weight: bold;
+    font-size: medium;
+    color: var(--text-color1);
+    text-decoration: none;
 }
 
 .project-tile {
@@ -37,13 +56,13 @@
 }
 
 @media screen and (min-width: 768px) {
-    #cards-wrapper {
+    #tile-wrapper {
         grid-template-columns: 1fr 1fr;
     }
 }
 
 @media screen and (min-width: 1024px) {
-    #cards-wrapper {
+    #tile-wrapper {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
