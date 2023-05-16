@@ -1,18 +1,18 @@
 /* File for general styling. Still getting used to it. Trying to get things more organized with separated files. */
 
 :root {
-    --strong-color: #175873;
-    --medium-color: #2b7c85;
-    --light-color: #87aca3;
-    --alert-color: #0c1446;
+  --strong-color: #175873;
+  --medium-color: #2b7c85;
+  --light-color: #87aca3;
+  --alert-color: #0c1446;
 
-    --text-color1: lightcyan;
+  --text-color1: lightcyan;
 }
 
 html {
-    scroll-behavior: smooth;
-    scroll-padding-top: 4rem;
+  scroll-behavior: smooth;
+  scroll-padding-top: 4rem;
 
-    /* Just trying new fonts. Might find a better one later. */
-    font-family: "Roboto", sans-serif;
+  /* Just trying new fonts. Might find a better one later. */
+  font-family: 'Roboto', sans-serif;
 }

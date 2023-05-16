@@ -1,5 +1,5 @@
-# Personal Portifolio Page
+# Página de Portifólio Pessoal
 
-This is, initialy, a training portifolio page. I'll se if will it turn into my official one on the future.
+Bem-vindo à minha página de portifólio pessoal.
 
-Feel free to reach me and give any feedback on it. I'm learning.
+🚧 Página em Costrução! Cuidado! 🚧 👷‍♂️
