@@ -1,10 +1,15 @@
 header {
   display: flex;
   position: fixed;
+
   width: 100vw;
+
   justify-content: flex-end;
+
   /* margin: 0.5rem; */
+
   box-shadow: 0 0 20px black;
+
   background: var(--strong-color);
 }
 
@@ -16,10 +21,11 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+
   height: 4rem;
 }
 
 #navbar a {
   text-decoration: none;
   color: var(--text-color1);
-}/*# sourceMappingURL=header.css.map */
+}

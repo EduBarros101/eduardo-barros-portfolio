@@ -1,9 +1,10 @@
 #projects {
   min-height: 100vh;
+
   padding-bottom: 1.5rem;
+
   background: var(--medium-color);
 }
-
 #projects-header {
   text-align: center;
   padding: 5rem;
@@ -15,16 +16,20 @@
   grid-template-columns: minmax(300px, 1fr);
   gap: 2rem;
   padding: 2rem;
+
   max-width: 1000px;
   margin: auto;
 }
 
 #projects > button {
   display: block;
+
   margin: auto;
   padding: 0.5rem;
+
   border: none;
   border-radius: 0.3rem;
+
   background-color: var(--alert-color);
 }
 
@@ -37,10 +42,13 @@
 
 .project-tile {
   text-align: center;
+
   overflow: hidden;
+
   /* min-width: 300px; */
   border-radius: 0.4rem;
   box-shadow: 0 0 10px black;
+
   background: lightcyan;
 }
 
@@ -57,8 +65,9 @@
     grid-template-columns: 1fr 1fr;
   }
 }
+
 @media screen and (min-width: 1024px) {
   #tile-wrapper {
     grid-template-columns: 1fr 1fr 1fr;
   }
-}/*# sourceMappingURL=projects.css.map */
+}

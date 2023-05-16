@@ -3,11 +3,13 @@
   --medium-color: #2b7c85;
   --light-color: #87aca3;
   --alert-color: #0c1446;
+
   --text-color1: lightcyan;
 }
 
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 4rem;
-  font-family: "Roboto", sans-serif;
-}/*# sourceMappingURL=global.css.map */
+
+  font-family: 'Roboto', sans-serif;
+}
