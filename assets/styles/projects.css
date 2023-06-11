@@ -41,15 +41,16 @@
   /* min-width: 300px; */
   border-radius: 0.4rem;
   box-shadow: 0 0 10px black;
-  background: lightcyan;
+  background: var(--light-color);
 }
-
-.project-tile > img {
+.project-tile .tile-title {
+  display: flex;
+  height: 2.5rem;
+  align-items: center;
+  justify-content: center;
+}
+.project-tile img {
   width: 100%;
-}
-
-.project-tile > h3 {
-  padding: 0 0 0.5rem;
 }
 
 @media screen and (min-width: 768px) {
