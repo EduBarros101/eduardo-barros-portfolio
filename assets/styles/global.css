@@ -1,18 +1,14 @@
 :root {
-  --strong-color: #175873;
-  --medium-color: #2b7c85;
-  --light-color: #87aca3;
-  --alert-color: #0c1446;
-  --text-color1: lightcyan;
+  --strong-color: #1b1b1b;
+  --medium-color: #212121;
+  --light-color: #262626;
+  --alert-color: #eeba2c;
+  --text-color1: #f5f5f5;
+  --text-color2: #161616;
 }
 
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 4rem;
   font-family: "Roboto", sans-serif;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
 }/*# sourceMappingURL=global.css.map */
