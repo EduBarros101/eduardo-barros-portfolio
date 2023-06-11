@@ -45,9 +45,10 @@
 }
 .project-tile .tile-title {
   display: flex;
-  height: 2.5rem;
+  height: 3rem;
   align-items: center;
   justify-content: center;
+  color: var(--text-color1);
 }
 .project-tile img {
   width: 100%;
