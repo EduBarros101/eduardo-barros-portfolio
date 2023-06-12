@@ -1,1 +1,1 @@
-{"version":3,"sources":["welcome.scss","welcome.css"],"names":[],"mappings":"AAAA;EACE,aAAA;EACA,aAAA;EACA,mBAAA;EAEA,+BAAA;ACAF;;ADGA;EACE,kBAAA;EACA,YAAA;ACAF","file":"welcome.css"}
+{"version":3,"sources":["welcome.scss","welcome.css"],"names":[],"mappings":"AAAA;EACE,aAAA;EACA,aAAA;EACA,mBAAA;EAEA,+BAAA;ACAF;;ADGA;EACE,kBAAA;EACA,YAAA;EAEA,yBAAA;ACDF","file":"welcome.css"}
