@@ -12,6 +12,7 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 4rem;
   font-family: "Montserrat", sans-serif;
+  color: var(--text-color1);
 }
 
 a :hover {
@@ -20,6 +21,9 @@ a :hover {
 
 .title {
   color: var(--text-color3);
+}
+.title span {
+  color: var(--text-color1);
 }
 
 .button {

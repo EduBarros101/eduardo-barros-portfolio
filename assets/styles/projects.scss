@@ -4,11 +4,22 @@
   padding-bottom: 1.5rem;
 
   background: var(--medium-color);
+
+  button {
+    display: block;
+
+    font-weight: bold;
+
+    margin: auto;
+    padding: 0.5rem;
+
+    background-color: var(--alert-color);
+  }
 }
+
 #projects-header {
   text-align: center;
   padding: 5rem;
-  color: var(--text-color1);
 }
 
 #tile-wrapper {
@@ -19,25 +30,6 @@
 
   max-width: 1000px;
   margin: auto;
-}
-
-#projects > button {
-  display: block;
-
-  margin: auto;
-  padding: 0.5rem;
-
-  border: none;
-  border-radius: 0.3rem;
-
-  background-color: var(--alert-color);
-}
-
-#projects > button > a {
-  font-weight: bold;
-  font-size: medium;
-  color: var(--text-color1);
-  text-decoration: none;
 }
 
 .project-tile {
