@@ -3,8 +3,6 @@ header {
   position: fixed;
   width: 100vw;
   justify-content: flex-end;
-  /* margin: 0.5rem; */
-  box-shadow: 0 0 20px black;
   background: var(--strong-color);
 }
 
