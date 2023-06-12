@@ -15,3 +15,22 @@ html {
 
   font-family: 'Montserrat', sans-serif;
 }
+
+a {
+  :hover {
+    cursor: pointer;
+  }
+}
+
+.title {
+  color: var(--text-color3);
+}
+
+.button {
+  background-color: transparent;
+
+  border: 2px solid var(--super-color);
+  border-radius: 0.3rem;
+
+  color: var(--text-color1);
+}

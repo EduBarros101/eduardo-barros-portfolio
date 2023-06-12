@@ -1,0 +1,22 @@
+footer {
+  display: flex;
+  flex-direction: column;
+
+  background-color: var(--strong-color);
+
+  padding: 2rem 0;
+  gap: 2rem;
+
+  text-align: center;
+
+  #contact__links {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+
+    button {
+      width: 100px;
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--strong-color);
+  padding: 2rem 0;
+  gap: 2rem;
+  text-align: center;
+}
+footer #contact__links {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+footer #contact__links button {
+  width: 100px;
+  font-weight: bold;
+}/*# sourceMappingURL=footer.css.map */

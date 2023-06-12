@@ -12,4 +12,19 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 4rem;
   font-family: "Montserrat", sans-serif;
+}
+
+a :hover {
+  cursor: pointer;
+}
+
+.title {
+  color: var(--text-color3);
+}
+
+.button {
+  background-color: transparent;
+  border: 2px solid var(--super-color);
+  border-radius: 0.3rem;
+  color: var(--text-color1);
 }/*# sourceMappingURL=global.css.map */
