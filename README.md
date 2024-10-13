@@ -1,4 +1,4 @@
-# Página de Portifólio Pessoal
+# Página de Portfólio Pessoal
 
 Bem-vindo à minha página de portifólio pessoal.
 
