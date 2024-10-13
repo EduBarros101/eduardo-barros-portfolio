@@ -1,6 +1,6 @@
 # Página de Portfólio Pessoal
 
-Bem-vindo à minha página de portifólio pessoal.
+Bem-vindo à minha página de portfólio pessoal.
 
 🚧 Página em Costrução! Cuidado! 🚧 👷‍♂️
 
